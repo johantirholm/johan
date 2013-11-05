@@ -97,7 +97,21 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+@font-face {
+    font-family: 'futura_ltextrabold';
+    src: url('/webfonts/futura/futuralt-extrabold-webfont.eot');
+    src: url('/webfonts/futura/futuralt-extrabold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/webfonts/futura/futuralt-extrabold-webfont.woff') format('woff'),
+    url('/webfonts/futura/futuralt-extrabold-webfont.ttf') format('truetype'),
+    url('/webfonts/futura/futuralt-extrabold-webfont.svg#futura_ltextrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
+h2 
+{
+    font-family: 'futura_ltextrabold';
+}
 
 
 
